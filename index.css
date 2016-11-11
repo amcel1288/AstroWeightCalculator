@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	background: #888;
+
+}
+#inputWeight {
+  margin-bottom: 72px;
+}
+#header {
+	font-size: 50px;
+	font-weight: bold;
+	font-family: 'Ubuntu', sans-serif;
+	padding: 75px;
+	text-decoration: underline;
+}
+#middle {
+	padding: 15px;
+	font-size: 25px;
+	font-family: 'Oswald', sans-serif;
+	display: ;
+    
